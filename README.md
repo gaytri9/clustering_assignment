@@ -36,7 +36,7 @@ The dataset used for this assignment is [provide dataset name and source]. This 
 3. The notebook will generate plots and display the results of each clustering algorithm.
 
 ## Results
-- K-means clustering: [Silhouette=0.0.568]
+- K-means clustering: [Silhouette=0.5568]
 - MeanShift clustering: [Silhouette=0.6358]
 - Hierarchical Clustering: [Silhouette=0.5225]
 
