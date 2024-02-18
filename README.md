@@ -4,7 +4,8 @@
 This repository contains the code and documentation for a clustering assignment using PyCaret. The assignment involves implementing three clustering algorithms (K-means, MeanShift, and Hierarchical Clustering) and plotting 3D graphs for visualization.
 
 ## Dataset
-The dataset used for this assignment is [provide dataset name and source]. This dataset contains [brief description of the dataset].
+The dataset used for this assignment is Credit-Card-Dataset. This dataset contains The Credit Card Dataset typically contains information about credit card transactions, including various attributes such as transaction amount, time of transaction, whether the transaction is fraudulent or not, and potentially additional features related to the transaction.
+Before using the dataset, it's recommended to review the dataset documentation or metadata to understand the attributes and any data preprocessing steps that may be required. Additionally, data cleaning and feature engineering may be necessary to prepare the dataset for modeling tasks.
 
 ## Setup
 1. Clone this repository to your local machine.
